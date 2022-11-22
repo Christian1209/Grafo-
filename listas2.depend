@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1632539465 source:c:\users\misa_\onedrive\escritorio\estructura1\listas2\lista.cpp
+	"Lista.h"
+
+1632533613 c:\users\misa_\onedrive\escritorio\estructura1\listas2\lista.h
+	<iostream>
+	"Nodo.h"
+
+1632522286 c:\users\misa_\onedrive\escritorio\estructura1\listas2\nodo.h
+	"Personaje.h"
+	<stdlib.h>
+	<iostream>
+
+1632545475 source:c:\users\misa_\onedrive\escritorio\estructura1\listas2\nodo.cpp
+	"Nodo.h"
+	<stdlib.h>
+	<stdio.h>
+
+1632541570 source:c:\users\misa_\onedrive\escritorio\estructura1\listas2\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Lista.h"
+	"Nodo.h"
+
+1632530982 source:c:\users\misa_\onedrive\escritorio\estructura1\listas2\personaje.cpp
+	"Personaje.h"
+	<stdlib.h>
+	<stdio.h>
+
+1632531358 c:\users\misa_\onedrive\escritorio\estructura1\listas2\personaje.h
+	<iostream>
+
+1648012591 source:c:\users\misa_\onedrive\escritorio\edd2\listas2\nodo.cpp
+	"Nodo.h"
+	<stdlib.h>
+	<stdio.h>
+
+1648155819 c:\users\misa_\onedrive\escritorio\edd2\listas2\nodo.h
+	"Personaje.h"
+	<stdlib.h>
+	<iostream>
+
+1644457794 c:\users\misa_\onedrive\escritorio\edd2\listas2\personaje.h
+	<iostream>
+
+1632523784 source:c:\users\misa_\onedrive\escritorio\edd2\listas2\personaje.cpp
+	"Personaje.h"
+	<stdlib.h>
+	<stdio.h>
+
+1648759266 source:c:\users\misa_\onedrive\escritorio\edd2\listas2\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Lista.h"
+	"Nodo.h"
+
+1648692824 c:\users\misa_\onedrive\escritorio\edd2\listas2\lista.h
+	<iostream>
+	"Nodo.h"
+
+1648759765 source:c:\users\misa_\onedrive\escritorio\edd2\listas2\lista.cpp
+	"Lista.h"
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<sstream>
+	<vector>
+	"Personaje.h"
+	"Nodo.h"
+

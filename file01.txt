@@ -1,0 +1,1 @@
+uno|1|Juan|20|3|dos|3|cuatro|6|dos*dos|2|Pdro|60|7|tres*tres|3|Misael|30|5|uno*cuatro|4|Christian|30|34|uno*
